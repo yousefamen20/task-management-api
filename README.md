@@ -38,7 +38,7 @@ task-management-api/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/yousefamen20/task-management-api.git
 ```
 
 Move into the project folder:
